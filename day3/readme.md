@@ -18,6 +18,11 @@ I also created a simple mini task where I can **create notes using POST request*
   - `app.use()`
   - `express.json()` to read JSON data received in `req.body`
 
+## Postman Practice
+Today I also started exploring **Postman** and learned how to test APIs by sending:
+- **GET** requests
+- **POST** requests
+
 ## Mini Task: Notes API
 ### 1) Create a Note (POST)
 - Endpoint: `POST /notes`
@@ -55,5 +60,5 @@ Server runs on:
 
 ```
 http://localhost:3000
-```
+
 
